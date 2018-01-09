@@ -1,0 +1,18 @@
+[package]
+name = "tokio-krpc"
+version = "0.1.0"
+authors = ["K. <kayo@illumium.org>"]
+
+[dependencies]
+futures = "0.1"
+tokio-core = "0.1"
+tokio-service = "0.1"
+serde = "1.0"
+serde_derive = "1.0"
+serde_bencode = "0.2"
+serde_bytes = "0.10"
+rand = "0.3"
+log = "0.4"
+hexdump = "0.1"
+pretty_env_logger = "0.1"
+crypto-hashes = { version = "0.4", features = ["include_weak"] }
