@@ -1,4 +1,4 @@
-KRPC protocol in Rust
+KRPC protocol in Rust [![Build Status](https://travis-ci.org/katyo/tokio_krpc.svg?branch=master)](https://travis-ci.org/katyo/tokio_krpc)
 =====================
 
 Kademlia Remote Procedure Call (KRPC) protocol definition from
